@@ -1,0 +1,50 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#adicionarTarefa {
+    margin-bottom: 20px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+#adicionarTarefa button {
+    background-color: #f4b200;
+    border: none;
+    width: 3rem;
+    height: 2rem;
+}
+#adicionarTarefa button:hover {
+    background-color: #f4f000;
+}
+
+#novaTarefa {
+    width: 200px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#listaTarefas {
+    list-style: none;
+    padding: 0;
+}
+
+#listaTarefas li {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#listaTarefas li.concluido {
+    text-decoration: line-through;
+}
+
+#listaTarefas li:nth-child(odd) {
+    background-color: #f6f6f6;
+}
