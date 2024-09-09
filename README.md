@@ -1,5 +1,7 @@
 ## Lista de Tarefas: Nunca mais esqueça nada! 
 
+<img src="imagem/Projeto.png">
+
 Quem nunca fez uma lista de tarefas e depois deixou ela guardadinha no fundo da gaveta?  Com esse projeto, você pode manter suas tasks sempre organizadas e acessíveis, direto do seu navegador! 
 
 **Como funciona?**
